@@ -13,6 +13,7 @@ class User extends Account {
         E-mail:Sthis->email
         Password:$this->password" ;
         echo "<br>";
+        
      }
 }
 ?>
